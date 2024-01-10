@@ -1,6 +1,6 @@
 # Python - Exceptions
 
-# Function and Prototypes
+## Function and Prototypes
 
 | FILE | PROTOTYPES|
 | -------- | ----------|
