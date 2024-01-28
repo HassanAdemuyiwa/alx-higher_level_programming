@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+"""Defines myint"""
 
 class MyInt(int):
     """Invert int operators == and !=."""
